@@ -1,3 +1,1 @@
-## Blog Posts
-
-- Example Post 1
+## Rory Devitt
