@@ -1,1 +1,1 @@
-This is a sample blog post.
+- [Wheres' the best place to aim on a dartboard?](./darts-simulator.md)
